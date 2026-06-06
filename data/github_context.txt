@@ -1,0 +1,156 @@
+GitHub User: sanjayrawatt
+
+Repo: 2219557
+Description: None
+Tech Stack/Language: TypeScript
+URL: https://github.com/sanjayrawatt/2219557
+
+Repo: AI-Resume-Builder
+Description: A full-stack AI-powered resume builder built using React, Node.js, MongoDB, and Google Gemini AI, featuring real-time editing, professional templates, AI content enhancement, image optimization, and one-click PDF export.
+Tech Stack/Language: JavaScript
+URL: https://github.com/sanjayrawatt/AI-Resume-Builder
+
+Repo: ai-workflow-tool
+Description: A Python-based application for building, managing, and deploying AI-powered automation workflows.
+Tech Stack/Language: Python
+URL: https://github.com/sanjayrawatt/ai-workflow-tool
+
+Repo: cloud-storage-client
+Description: Frontend for my secure cloud storage application.
+Tech Stack/Language: JavaScript
+URL: https://github.com/sanjayrawatt/cloud-storage-client
+
+Repo: cloud-storage-system
+Description: Backend for my secure cloud storage application.
+Tech Stack/Language: JavaScript
+URL: https://github.com/sanjayrawatt/cloud-storage-system
+
+Repo: Custom-Operating-System
+Description: None
+Tech Stack/Language: Assembly
+URL: https://github.com/sanjayrawatt/Custom-Operating-System
+
+Repo: Customer-Churn-Prediction
+Description: None
+Tech Stack/Language: Jupyter Notebook
+URL: https://github.com/sanjayrawatt/Customer-Churn-Prediction
+
+Repo: daily-coding-log
+Description: None
+Tech Stack/Language: None
+URL: https://github.com/sanjayrawatt/daily-coding-log
+
+Repo: Dodge-AI-Assignment
+Description: None
+Tech Stack/Language: TypeScript
+URL: https://github.com/sanjayrawatt/Dodge-AI-Assignment
+
+Repo: E-Commerce-Website
+Description: None
+Tech Stack/Language: TypeScript
+URL: https://github.com/sanjayrawatt/E-Commerce-Website
+
+Repo: Facial-Attendance-System
+Description: None
+Tech Stack/Language: Python
+URL: https://github.com/sanjayrawatt/Facial-Attendance-System
+
+Repo: fenrir-security
+Description: None
+Tech Stack/Language: JavaScript
+URL: https://github.com/sanjayrawatt/fenrir-security
+
+Repo: financial-document-analyzer
+Description: None
+Tech Stack/Language: Python
+URL: https://github.com/sanjayrawatt/financial-document-analyzer
+
+Repo: Food-Deilvery-App
+Description: None
+Tech Stack/Language: None
+URL: https://github.com/sanjayrawatt/Food-Deilvery-App
+
+Repo: food-delivery-app
+Description: None
+Tech Stack/Language: JavaScript
+URL: https://github.com/sanjayrawatt/food-delivery-app
+
+Repo: Job-Portal-Fullstack
+Description: None
+Tech Stack/Language: JavaScript
+URL: https://github.com/sanjayrawatt/Job-Portal-Fullstack
+
+Repo: LMS-Assignment
+Description: None
+Tech Stack/Language: TypeScript
+URL: https://github.com/sanjayrawatt/LMS-Assignment
+
+Repo: Mapify
+Description: None
+Tech Stack/Language: JavaScript
+URL: https://github.com/sanjayrawatt/Mapify
+
+Repo: mern-crm-app
+Description: A full-stack Customer Relationship Management (CRM) application built with the MERN stack (MongoDB, Express, React, Node.js).
+Tech Stack/Language: JavaScript
+URL: https://github.com/sanjayrawatt/mern-crm-app
+
+Repo: my-portfolio
+Description: None
+Tech Stack/Language: CSS
+URL: https://github.com/sanjayrawatt/my-portfolio
+
+Repo: nextflow
+Description: Visual workflow builder for AI pipelines
+Tech Stack/Language: TypeScript
+URL: https://github.com/sanjayrawatt/nextflow
+
+Repo: QuickAI-Full-Stack
+Description: QuickAI is a full-stack AI SaaS platform offering tools like article generation, blog titles, AI image creation, background removal, object removal, and résumé analysis. It features secure authentication, subscription billing, and a dynamic dashboard with user history. Built using React, Node.js, Express, and Neon Postgres, and deployed on Vercel.
+Tech Stack/Language: JavaScript
+URL: https://github.com/sanjayrawatt/QuickAI-Full-Stack
+
+Repo: sanjayrawatt
+Description: None
+Tech Stack/Language: None
+URL: https://github.com/sanjayrawatt/sanjayrawatt
+
+Repo: SweetShop-Management-System
+Description: None
+Tech Stack/Language: TypeScript
+URL: https://github.com/sanjayrawatt/SweetShop-Management-System
+
+Repo: TenderPulse
+Description: None
+Tech Stack/Language: Python
+URL: https://github.com/sanjayrawatt/TenderPulse
+
+Repo: TruEstate-Retail-Sales-System
+Description: None
+Tech Stack/Language: JavaScript
+URL: https://github.com/sanjayrawatt/TruEstate-Retail-Sales-System
+
+Repo: University-Management-System
+Description: None
+Tech Stack/Language: None
+URL: https://github.com/sanjayrawatt/University-Management-System
+
+Repo: urvann-plant-store
+Description: A production-ready, full-stack e-commerce platform. The backend is a RESTful API built with Node.js and Express, connected to a MongoDB database. The frontend is a responsive single-page application built with React and styled with Tailwind CSS.
+Tech Stack/Language: JavaScript
+URL: https://github.com/sanjayrawatt/urvann-plant-store
+
+Repo: wall-calendar
+Description: None
+Tech Stack/Language: CSS
+URL: https://github.com/sanjayrawatt/wall-calendar
+
+Repo: your-creative-spark
+Description: None
+Tech Stack/Language: TypeScript
+URL: https://github.com/sanjayrawatt/your-creative-spark
+
+Repo: scaler-ai-persona
+Description: A voice and text conversational AI agent built to act as a digital twin. Built with FastAPI, Groq, Gemini Embeddings, and Vapi for Voice. Design tradeoffs: Used Groq for ultra-low latency inference for Voice AI instead of slower models. RAG implemented manually with Cosine similarity. If I built it again, I would use WebSockets for real-time streaming directly to frontend.
+Tech Stack/Language: Python, FastAPI
+URL: https://github.com/sanjayrawatt/scaler-ai-persona
