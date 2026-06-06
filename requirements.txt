@@ -8,3 +8,5 @@ llama-index-llms-openai==0.1.22
 llama-index-embeddings-openai==0.1.10
 chromadb==0.5.0
 pdfplumber==0.11.1
+google-genai
+openai
